@@ -1,2 +1,2 @@
-# Formulario-con-validacion-de-Datos-en-Php.
-Formulario sencillo que se encarga de validar información personal para luego mostrarla.
+# Formularios-en-Php.
+Trabajar con formularios es una de las partes más importantes en php esto repositorio tiene como objetivo conocer las diversas características que podemos utilizar a la hora de implementar un formulario.  
